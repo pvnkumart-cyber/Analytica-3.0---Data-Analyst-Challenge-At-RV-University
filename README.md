@@ -11,9 +11,8 @@ The goal was to conduct a full diagnostic audit of Solstice Retail Group (SRG) �
 
 
 [Tools Used]:
-Tool       --    Purpose
-MySQL      --    Data cleaning and transformation
-Power BI   --    Dashboard design, analysis, and visualization
+MySQL — Data cleaning and transformation
+Power BI — Dashboard design, analysis, and visualization
 
 [Dataset]:
 
@@ -39,11 +38,10 @@ Standardized Employee_ID to uppercase across all tables
 
 
 [Repository Files]
-File                                      Description
------------------------------------------------------
-Analytica 3.0 DataSet-1.xlsx              Raw competition dataset
-Cleaning - mysql code.sql                 Full MySQL data cleaning scripts
-Solstice Retail Group Dashboard.pdf       Power BI dashboard export (all pages)Insights_and_Strategic_Verdict.pdfInsights map and strategic recommendation
+Analytica 3.0 DataSet-1.xlsx — Raw competition dataset
+Cleaning - mysql code.sql — Full MySQL data cleaning scripts
+Solstice Retail Group Dashboard.pdf — Power BI dashboard export (all pages)
+Insights_and_Strategic_Verdict.pdf — Insights map and strategic recommendation
 
 [Author]
 pvnkumart-cyber
